@@ -1,6 +1,8 @@
 Excalibur
 =========
 
+this is a test of the emergency broadcast system
+
 Plugin For name, and stat changing in Minecraft,
 
 Eventual goal: To completely replace the exsisting enchantment table with better built enchantment and naming sceme for weaps an tools.
