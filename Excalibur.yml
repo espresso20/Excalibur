@@ -1,3 +1,7 @@
-name: {$Excalibur}
-main: {$com.git.monkeypuddles.Excalibur}.{$Excalibur}
-version: {$1.0}
+#dont mess with!
+name: Excalibur
+main: com.git.monkeypuddles.Excalibur
+#version specs
+version: 1.0
+description: Test project for the moment
+authors: Monkeypuddles
